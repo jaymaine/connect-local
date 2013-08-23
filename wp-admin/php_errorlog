@@ -1,0 +1,205 @@
+[12-Apr-2013 19:44:06 CST6CDT] PHP Fatal error:  Call to undefined function nocache_headers() in /home/proje196/public_html/wp-admin/admin.php on line 32
+[13-Apr-2013 01:24:01 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 for query SELECT COUNT(*) FROM  made by require_once('wp-admin/admin.php'), do_action('admin_init'), call_user_func_array, bp_admin_init, do_action('bp_admin_init'), call_user_func_array, bp_core_activation_notice
+[13-Apr-2013 01:24:01 UTC] PHP Fatal error:  Call to undefined function bp_blogs_record_existing_blogs() in /home/proje196/public_html/wp-content/plugins/buddypress/bp-core/admin/bp-core-functions.php on line 205
+[13-Apr-2013 01:29:29 UTC] PHP Fatal error:  Call to undefined function bp_get_friends_slug() in /home/proje196/public_html/wp-content/plugins/buddypress/bp-activity/bp-activity-loader.php on line 276
+[19-Apr-2013 19:08:57 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proje196/public_html/wp-content/plugins/simple-image-sizes/inc/class.admin.php on line 607
+[19-Apr-2013 19:08:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/proje196/public_html/wp-content/plugins/simple-image-sizes/inc/class.admin.php:607) in /home/proje196/public_html/wp-content/plugins/simple-image-sizes/inc/class.admin.php on line 805
+[19-Apr-2013 19:10:07 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proje196/public_html/wp-content/plugins/simple-image-sizes/inc/class.admin.php on line 607
+[19-Apr-2013 19:10:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/proje196/public_html/wp-content/plugins/simple-image-sizes/inc/class.admin.php:607) in /home/proje196/public_html/wp-content/plugins/simple-image-sizes/inc/class.admin.php on line 805
+[19-Apr-2013 19:11:46 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proje196/public_html/wp-content/plugins/simple-image-sizes/inc/class.admin.php on line 607
+[19-Apr-2013 19:11:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/proje196/public_html/wp-content/plugins/simple-image-sizes/inc/class.admin.php:607) in /home/proje196/public_html/wp-content/plugins/simple-image-sizes/inc/class.admin.php on line 805
+[19-Apr-2013 19:15:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proje196/public_html/wp-content/plugins/simple-image-sizes/inc/class.admin.php on line 607
+[19-Apr-2013 19:15:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/proje196/public_html/wp-content/plugins/simple-image-sizes/inc/class.admin.php:607) in /home/proje196/public_html/wp-content/plugins/simple-image-sizes/inc/class.admin.php on line 805
+[19-Apr-2013 19:15:58 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proje196/public_html/wp-content/plugins/simple-image-sizes/inc/class.admin.php on line 607
+[19-Apr-2013 19:15:59 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/proje196/public_html/wp-content/plugins/simple-image-sizes/inc/class.admin.php:607) in /home/proje196/public_html/wp-content/plugins/simple-image-sizes/inc/class.admin.php on line 805
+[19-Apr-2013 19:20:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/proje196/public_html/wp-content/themes/responsive-child-theme/functions.php:11) in /home/proje196/public_html/wp-includes/class-wp-ajax-response.php on line 129
+[19-Apr-2013 19:21:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/proje196/public_html/wp-content/themes/responsive-child-theme/functions.php:11) in /home/proje196/public_html/wp-includes/class-wp-ajax-response.php on line 129
+[19-Apr-2013 19:21:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/proje196/public_html/wp-content/themes/responsive-child-theme/functions.php:11) in /home/proje196/public_html/wp-includes/class-wp-ajax-response.php on line 129
+[19-Apr-2013 19:22:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/proje196/public_html/wp-content/themes/responsive-child-theme/functions.php:11) in /home/proje196/public_html/wp-includes/class-wp-ajax-response.php on line 129
+[19-Apr-2013 19:23:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/proje196/public_html/wp-content/themes/responsive-child-theme/functions.php:11) in /home/proje196/public_html/wp-includes/class-wp-ajax-response.php on line 129
+[19-Apr-2013 19:24:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/proje196/public_html/wp-content/themes/responsive-child-theme/functions.php:11) in /home/proje196/public_html/wp-includes/class-wp-ajax-response.php on line 129
+[19-Apr-2013 19:24:49 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/proje196/public_html/wp-content/themes/responsive-child-theme/functions.php:11) in /home/proje196/public_html/wp-includes/class-wp-ajax-response.php on line 129
+[01-May-2013 00:58:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proje196/public_html/wp-content/plugins/wp-members/admin/users.php on line 643
+[01-May-2013 00:59:04 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proje196/public_html/wp-content/plugins/wp-members/admin/users.php on line 643
+[01-May-2013 00:59:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proje196/public_html/wp-content/plugins/wp-members/admin/users.php on line 643
+[01-May-2013 00:59:53 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proje196/public_html/wp-content/plugins/wp-members/admin/users.php on line 643
+[01-May-2013 01:00:03 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proje196/public_html/wp-content/plugins/wp-members/admin/users.php on line 643
+[01-May-2013 18:04:31 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 for query SELECT location_status FROM wp_3_em_locations WHERE location_id= made by edit_post, wp_update_post, wp_insert_post, do_action('save_post'), call_user_func_array, EM_Event_Post_Admin::save_post, EM_Event->save_meta, EM_Location->set_status
+[01-May-2013 18:04:31 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 for query UPDATE wp_3_em_locations SET location_status=NULL, location_slug='' WHERE location_id= made by edit_post, wp_update_post, wp_insert_post, do_action('save_post'), call_user_func_array, EM_Event_Post_Admin::save_post, EM_Event->save_meta, EM_Location->set_status
+[01-May-2013 18:05:03 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 for query SELECT location_status FROM wp_3_em_locations WHERE location_id= made by edit_post, wp_update_post, wp_insert_post, do_action('save_post'), call_user_func_array, EM_Event_Post_Admin::save_post, EM_Event->save_meta, EM_Location->set_status
+[01-May-2013 18:05:03 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 for query UPDATE wp_3_em_locations SET location_status=NULL, location_slug='' WHERE location_id= made by edit_post, wp_update_post, wp_insert_post, do_action('save_post'), call_user_func_array, EM_Event_Post_Admin::save_post, EM_Event->save_meta, EM_Location->set_status
+[01-May-2013 18:05:19 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 for query SELECT location_status FROM wp_3_em_locations WHERE location_id= made by edit_post, wp_update_post, wp_insert_post, do_action('save_post'), call_user_func_array, EM_Event_Post_Admin::save_post, EM_Event->save_meta, EM_Location->set_status
+[01-May-2013 18:05:19 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 for query UPDATE wp_3_em_locations SET location_status=NULL, location_slug='' WHERE location_id= made by edit_post, wp_update_post, wp_insert_post, do_action('save_post'), call_user_func_array, EM_Event_Post_Admin::save_post, EM_Event->save_meta, EM_Location->set_status
+[01-May-2013 18:05:46 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 for query SELECT location_status FROM wp_3_em_locations WHERE location_id= made by edit_post, wp_update_post, wp_insert_post, do_action('save_post'), call_user_func_array, EM_Event_Post_Admin::save_post, EM_Event->save_meta, EM_Location->set_status
+[01-May-2013 18:05:46 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 for query UPDATE wp_3_em_locations SET location_status=NULL, location_slug='' WHERE location_id= made by edit_post, wp_update_post, wp_insert_post, do_action('save_post'), call_user_func_array, EM_Event_Post_Admin::save_post, EM_Event->save_meta, EM_Location->set_status
+[01-May-2013 18:06:47 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 for query SELECT location_status FROM wp_3_em_locations WHERE location_id= made by edit_post, wp_update_post, wp_insert_post, do_action('save_post'), call_user_func_array, EM_Event_Post_Admin::save_post, EM_Event->save_meta, EM_Location->set_status
+[01-May-2013 18:06:47 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 for query UPDATE wp_3_em_locations SET location_status=NULL, location_slug='' WHERE location_id= made by edit_post, wp_update_post, wp_insert_post, do_action('save_post'), call_user_func_array, EM_Event_Post_Admin::save_post, EM_Event->save_meta, EM_Location->set_status
+[06-May-2013 18:46:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proje196/public_html/wp-content/plugins/weptile-image-slider-widget/weptile-image-slider-widget.php on line 458
+[06-May-2013 18:46:21 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proje196/public_html/wp-content/plugins/weptile-image-slider-widget/weptile-image-slider-widget.php on line 477
+[06-May-2013 18:46:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proje196/public_html/wp-content/plugins/weptile-image-slider-widget/weptile-image-slider-widget.php on line 458
+[06-May-2013 18:46:40 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proje196/public_html/wp-content/plugins/weptile-image-slider-widget/weptile-image-slider-widget.php on line 477
+[06-May-2013 18:47:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proje196/public_html/wp-content/plugins/weptile-image-slider-widget/weptile-image-slider-widget.php on line 458
+[06-May-2013 18:47:28 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proje196/public_html/wp-content/plugins/weptile-image-slider-widget/weptile-image-slider-widget.php on line 477
+[06-May-2013 18:47:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proje196/public_html/wp-content/plugins/weptile-image-slider-widget/weptile-image-slider-widget.php on line 458
+[06-May-2013 18:47:59 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proje196/public_html/wp-content/plugins/weptile-image-slider-widget/weptile-image-slider-widget.php on line 477
+[06-May-2013 18:48:26 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proje196/public_html/wp-content/plugins/weptile-image-slider-widget/weptile-image-slider-widget.php on line 458
+[09-May-2013 20:03:35 UTC] WordPress database error MySQL server has gone away for query UPDATE `wp_3_options` SET `option_value` = 'a:34:{s:6:\"badips\";a:0:{}s:6:\"badems\";a:0:{}s:7:\"goodips\";a:1:{s:13:\"184.74.70.137\";s:19:\"2013/05/09 20:03:07\";}s:4:\"hist\";a:9:{s:19:\"2013/05/09 19:42:37\";a:6:{i:0;s:13:\"184.74.70.137\";i:1;s:16:\"47b7c5502815f494\";i:2;s:8:\"Check IP\";i:3;s:54:\"/wp-admin/options-general.php?page=stopspammersoptions\";i:4;s:7:\" passed\";i:5;s:1:\"3\";}s:19:\"2013/05/09 19:45:28\";a:6:{i:0;s:13:\"184.74.70.137\";i:1;s:0:\"\";i:2;s:4:\"test\";i:3;s:10:\"/register/\";i:4;s:13:\"White List IP\";i:5;s:1:\"3\";}s:19:\"2013/05/09 19:45:49\";a:6:{i:0;s:13:\"184.74.70.137\";i:1;s:0:\"\";i:2;s:0:\"\";i:3;s:10:\"/register/\";i:4;s:13:\"White List IP\";i:5;s:1:\"3\";}s:19:\"2013/05/09 19:45:50\";a:6:{i:0;s:13:\"184.74.70.137\";i:1;s:0:\"\";i:2;s:0:\"\";i:3;s:10:\"/register/\";i:4;s:13:\"White List IP\";i:5;s:1:\"3\";}s:19:\"2013/05/09 19:46:28\";a:6:{i:0;s:13:\"184.74.70.137\";i:1;s:0:\"\";i:2;s:0:\"\";i:3;s:31:\"/activate/?key=371f376ad6e4aa60\";i:4;s:13:\"White List IP\";i:5;s:1:\"3\";}s:19:\"2013/05/09 19:51:23\";a:6:{i:0;s:13:\"184.74.70.137\";i:1;s:23:\"thecompassllc@gmail.com\";i:2;s:11:\"The Compass\";i:3;s:10:\"/register/\";i:4;s:13:\"White List IP\";i:5;s:1:\"3\";}s:19:\"2013/05/09 19:51:37\";a:6:{i:0;s:13:\"184.74.70.137\";i:1;s:0:\"\";i:2;s:0:\"\";i:3;s:10:\"/register/\";i:4;s:13:\"White List IP\";i:5;s:1:\"3\";}s:19:\"2013/05/09 19:53:06\";a:6:{i:0;s:13:\"184.74.70.137\";i:1;s:0:\"\";i:2;s:0:\"\";i:3;s:31:\"/activate/?key=651284a7c08548a3\";i:4;s:13:\"White List IP\";i:5;s:1:\"3\";}s:19:\"2013/05/09 20:03:07\";a:6:{i:0;s:13:\"184.74.70.137\";i:1;s:16:\"174ed428e242aa65\";i:2;s:8:\"Check IP\";i:3;s:54:\"/wp-admin/options-general.php?page=stopspammersoptions\";i:4;s:7:\" passed\";i:5;s:1:\"3\";}}s:7:\"spcount\";i:0;s:8:\"spmcount\";i:0;s:10:\"cntjscript\";i:0;s:6:\"cntsfs\";i:0;s:10:\"cntreferer\";i:0;s:7:\"cntdisp\";i:0;s:5:\"cntrh\";i:0;s:8:\"cntdnsbl\";i:0;s:11:\"cntubiquity\";i:0;s:10:\"cntakismet\";i:0;s:12:\"cntspamwords\";i:0;s:10:\"cntsession\";i:0;s:7:\"cntlong\";i:0;s:8:\"cntagent\";i:0;s:6:\"cnttld\";i:0;s:8:\"cntemdom\";i:0;s:10:\"cntcacheip\";i:0;s:10:\"cntcacheem\";i:0;s:5:\"cnthp\";i:0;s:11:\"cntbotscout\";i:0;s:7:\"cntblem\";i:0;s:11:\"cntlongauth\";i:0;s:7:\"cntblip\";i:0;s:9:\"cntaccept\";i:0;s:9:\"cntpassed\";i:2;s:8:\"cntwhite\";i:12;s:7:\"cntgood\";i:0;s:8:\"autoload\";s:1:\"Y\";s:7:\"spmdate\";s:10:\"2013/05/09\";s:6:\"spdate\";s:10:\"2013/05/09\";}' WHERE `option_name` = 'kpg_stop_sp_reg_stats' made by require_once('wp-admin/admin.php'), do_action('settings_page_stopspammersoptions'), call_user_func_array, kpg_sfs_reg_control, require_once('/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-options.php'), kpg_sfs_check, update_option
+[09-May-2013 20:03:35 UTC] WordPress database error MySQL server has gone away for query UPDATE `wp_3_options` SET `option_value` = 'a:53:{s:5:\"wlist\";a:1:{i:0;s:13:\"184.74.70.137\";}s:5:\"blist\";a:0:{}s:10:\"baddomains\";a:0:{}s:7:\"badTLDs\";a:0:{}s:6:\"apikey\";s:0:\"\";s:8:\"honeyapi\";s:0:\"\";s:11:\"botscoutapi\";s:0:\"\";s:6:\"accept\";s:1:\"Y\";s:5:\"nobuy\";s:1:\"Y\";s:8:\"chkemail\";s:1:\"Y\";s:5:\"chkip\";s:1:\"Y\";s:10:\"chkjscript\";s:1:\"N\";s:6:\"chksfs\";s:1:\"Y\";s:10:\"chkreferer\";s:1:\"Y\";s:7:\"chkdisp\";s:1:\"Y\";s:10:\"redherring\";s:1:\"Y\";s:8:\"chkdnsbl\";s:1:\"Y\";s:11:\"chkubiquity\";s:1:\"Y\";s:9:\"noplugins\";s:1:\"N\";s:10:\"chkakismet\";s:1:\"Y\";s:18:\"chkakismetcomments\";s:1:\"N\";s:11:\"chkcomments\";s:1:\"Y\";s:12:\"chkspamwords\";s:1:\"N\";s:8:\"chklogin\";s:1:\"Y\";s:10:\"chksession\";s:1:\"Y\";s:8:\"sesstime\";i:4;s:9:\"chksignup\";s:1:\"Y\";s:7:\"chklong\";s:1:\"Y\";s:8:\"chkagent\";s:1:\"Y\";s:9:\"chkxmlrpc\";s:1:\"Y\";s:9:\"chkwpmail\";s:1:\"Y\";s:10:\"chkwplogin\";s:1:\"N\";s:8:\"chkadmin\";s:1:\"Y\";s:14:\"addtowhitelist\";s:1:\"Y\";s:8:\"muswitch\";s:1:\"N\";s:7:\"sfsfreq\";s:1:\"0\";s:6:\"hnyage\";s:4:\"9999\";s:7:\"botfreq\";s:1:\"0\";s:6:\"sfsage\";s:4:\"9999\";s:8:\"hnylevel\";s:1:\"5\";s:6:\"botage\";i:9999;s:12:\"kpg_sp_cache\";s:2:\"25\";s:15:\"kpg_sp_cache_em\";s:2:\"10\";s:11:\"kpg_sp_hist\";s:2:\"25\";s:11:\"kpg_sp_good\";s:1:\"2\";s:8:\"redirurl\";s:0:\"\";s:5:\"redir\";s:1:\"N\";s:5:\"sleep\";s:2:\"10\";s:11:\"logfilesize\";i:0;s:8:\"autoload\";s:1:\"Y\";s:9:\"firsttime\";s:1:\"N\";s:13:\"rejectmessage\";s:89:\"Access Denied<br/>\r\nThis site is protected by the Stop Spammer Registrations Plugin.<br/>\";s:9:\"spamwords\";a:94:{i:0;s:7:\"-online\";i:1;s:2:\"4u\";i:2;s:3:\"4-u\";i:3;s:6:\"adipex\";i:4;s:7:\"advicer\";i:5;s:9:\"baccarrat\";i:6;s:9:\"blackjack\";i:7;s:9:\"bllogspot\";i:8;s:6:\"booker\";i:9;s:4:\"byob\";i:10;s:17:\"car-rental-e-site\";i:11;s:18:\"car-rentals-e-site\";i:12;s:12:\"carisoprodol\";i:13;s:6:\"casino\";i:14;s:8:\"chatroom\";i:15;s:6:\"cialis\";i:16;s:6:\"coolhu\";i:17;s:16:\"credit-card-debt\";i:18;s:13:\"credit-report\";i:19;s:4:\"cwas\";i:20;s:6:\"cyclen\";i:21;s:15:\"cyclobenzaprine\";i:22;s:13:\"dating-e-site\";i:23;s:11:\"day-trading\";i:24;s:18:\"debt-consolidation\";i:25;s:18:\"debt-consolidation\";i:26;s:16:\"discreetordering\";i:27;s:9:\"duty-free\";i:28;s:8:\"dutyfree\";i:29;s:11:\"equityloans\";i:30;s:8:\"fioricet\";i:31;s:20:\"flowers-leading-site\";i:32;s:16:\"freenet-shopping\";i:33;s:7:\"freenet\";i:34;s:9:\"gambling-\";i:35;s:9:\"hair-loss\";i:36;s:21:\"health-insurancedeals\";i:37;s:15:\"homeequityloans\";i:38;s:11:\"homefinance\";i:39;s:6:\"holdem\";i:40;s:17:\"hotel-dealse-site\";i:41;s:11:\"hotele-site\";i:42;s:12:\"hotelse-site\";i:43;s:6:\"incest\";i:44;s:16:\"insurance-quotes\";i:45;s:14:\"insurancedeals\";i:46;s:11:\"jrcreations\";i:47;s:7:\"levitra\";i:48;s:11:\"macinstruct\";i:49;s:14:\"mortgagequotes\";i:50;s:15:\"online-gambling\";i:51;s:14:\"onlinegambling\";i:52;s:14:\"ottawavalleyag\";i:53;s:8:\"ownsthis\";i:54;s:5:\"paxil\";i:55;s:5:\"penis\";i:56;s:8:\"pharmacy\";i:57;s:11:\"phentermine\";i:58;s:10:\"poker-chip\";i:59;s:4:\"poze\";i:60;s:5:\"pussy\";i:61;s:17:\"rental-car-e-site\";i:62;s:9:\"ringtones\";i:63;s:8:\"roulette\";i:64;s:7:\"shemale\";i:65;s:12:\"slot-machine\";i:66;s:11:\"thorcarlson\";i:67;s:8:\"top-site\";i:68;s:10:\"top-e-site\";i:69;s:8:\"tramadol\";i:70;s:8:\"trim-spa\";i:71;s:6:\"ultram\";i:72;s:28:\"valeofglamorganconservatives\";i:73;s:6:\"viagra\";i:74;s:5:\"vioxx\";i:75;s:5:\"xanax\";i:76;s:5:\"zolus\";i:77;s:6:\"ambien\";i:78;s:5:\"poker\";i:79;s:5:\"bingo\";i:80;s:8:\"allstate\";i:81;s:8:\"insurnce\";i:82;s:12:\"work-at-home\";i:83;s:10:\"workathome\";i:84;s:10:\"home-based\";i:85;s:9:\"homebased\";i:86;s:11:\"weight-loss\";i:87;s:10:\"weightloss\";i:88;s:17:\"additional-income\";i:89;s:12:\"extra-income\";i:90;s:15:\"email-marketing\";i:91;s:11:\"sibutramine\";i:92;s:4:\"seo-\";i:93;s:9:\"fast-cash\";}}' WHERE `option_name` = 'kpg_stop_sp_reg_options' made by require_once('wp-admin/admin.php'), do_action('settings_page_stopspammersoptions'), call_user_func_array, kpg_sfs_reg_control, require_once('/plugins/stop-spammer-registrations-plugin/includes/stop-spam-reg-options.php'), update_option
+[09-May-2013 20:03:35 UTC] WordPress database error MySQL server has gone away for query SELECT meta_value FROM wp_sitemeta WHERE meta_key = 'dismissed_update_core' AND site_id = 1 made by require_once('wp-admin/admin.php'), include('wp-admin/admin-footer.php'), apply_filters('update_footer'), call_user_func_array, core_update_footer, get_preferred_from_update_core, get_core_updates, get_site_option
+[24-May-2013 20:28:39 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/proje196/public_html/wp-content/plugins/buddypress-docs/includes/upgrade.php on line 59
+[24-May-2013 20:28:39 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/proje196/public_html/wp-content/plugins/buddypress-docs/includes/upgrade.php on line 59
+[24-May-2013 20:28:46 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/proje196/public_html/wp-content/plugins/buddypress-docs/includes/upgrade.php on line 59
+[24-May-2013 20:28:48 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/proje196/public_html/wp-content/plugins/buddypress-docs/includes/upgrade.php on line 59
+[24-May-2013 20:28:55 UTC] PHP Parse error:  syntax error, unexpected '<' in /home/proje196/public_html/wp-content/plugins/buddypress-docs/includes/upgrade.php on line 59
+[24-May-2013 20:29:02 UTC] PHP Parse error:  syntax error, unexpected $end in /home/proje196/public_html/wp-content/plugins/buddypress-docs/includes/upgrade.php on line 319
+[24-May-2013 20:29:07 UTC] PHP Parse error:  syntax error, unexpected $end in /home/proje196/public_html/wp-content/plugins/buddypress-docs/includes/upgrade.php on line 319
+[24-May-2013 20:38:42 UTC] WordPress database error Duplicate column name 'term_reverse' for query ALTER TABLE wp_3_relevanssi ADD COLUMN term_reverse VARCHAR(50); made by activate_plugin, do_action('activate_relevanssi/relevanssi.php'), call_user_func_array, relevanssi_install, _relevanssi_install, relevanssi_create_database_tables
+[24-May-2013 20:38:42 UTC] WordPress database error Duplicate key name 'relevanssi_term_reverse_idx' for query CREATE INDEX relevanssi_term_reverse_idx ON wp_3_relevanssi (term_reverse(10)); made by activate_plugin, do_action('activate_relevanssi/relevanssi.php'), call_user_func_array, relevanssi_install, _relevanssi_install, relevanssi_create_database_tables
+[24-May-2013 20:40:08 UTC] PHP Fatal error:  Class 'CRED_Form_Builder_Helper' not found in /home/proje196/public_html/wp-content/plugins/cred-frontend-editor/classes/Form_Builder.php on line 169
+[24-May-2013 20:41:42 UTC] PHP Fatal error:  Class 'CRED_Form_Builder_Helper' not found in /home/proje196/public_html/wp-content/plugins/cred-frontend-editor/classes/Form_Builder.php on line 169
+[24-May-2013 20:42:21 UTC] PHP Fatal error:  Class 'CRED_Form_Builder_Helper' not found in /home/proje196/public_html/wp-content/plugins/cred-frontend-editor/classes/Form_Builder.php on line 169
+[24-May-2013 20:42:21 UTC] PHP Fatal error:  Class 'CRED_Form_Builder_Helper' not found in /home/proje196/public_html/wp-content/plugins/cred-frontend-editor/classes/Form_Builder.php on line 169
+[09-Jun-2013 16:22:57 UTC] WordPress database error MySQL server has gone away for query UPDATE wp_3_blc_links SET url = 'http://www.idea.gov.uk/', first_failure = '0000-00-00 00:00:00', last_check = '2013-06-09 16:22:30', last_success = '2013-06-09 16:22:30', last_check_attempt = '2013-06-09 16:22:30', check_count = 0, final_url = 'http://www.local.gov.uk/', redirect_count = 3, log = '=== HTTP code : 200 ===\n\nHTTP/1.1 301 Moved Permanently\r\nDate: Sun, 09 Jun 2013 16:22:36 GMT\r\nServer: IBM_HTTP_Server/6.1.0.43 Apache/2.0.47 (Win32)\r\nLocation: http://www.idea.gov.uk/idk/home.do\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\nHTTP/1.1 302 Found\r\nDate: Sun, 09 Jun 2013 16:22:37 GMT\r\nServer: IBM_HTTP_Server/6.1.0.43 Apache/2.0.47 (Win32)\r\nPragma: No-cache\r\nCache-Control: no-cache\r\nExpires: Thu, 01 Jan 1970 00:00:00 GMT\r\nP3P: CP=\"CAO DSP COR CURa ADMa DEVa TAIa OUR IND PHY ONL UNI COM NAV DEM\",policyref=\"http://www.idea.gov.uk/idk/p3p/p3p.xml\"\r\nIdk-SessionId: 82687885\r\nIdk-Username: -\r\nLocation: http://www.idea.gov.uk/idk/core/page.do?pageId=1\r\nSet-Cookie: JSESSIONID=0000U5zA1dGfAHdROIhBNmA5io1:14m47qbhp; Path=/\r\nSet-Cookie: idea_sessionid=82687885; Path=/; Domain=.idea.gov.uk\r\nSet-Cookie: IdkBacklinkStack=@~@; Path=/; Domain=.idea.gov.uk\r\nConnection: close\r\nContent-Type: text/html; charset=windows-1252\r\nContent-Language: en-GB\r\n\r\nHTTP/1.1 302 Found\r\nDate: Sun, 09 Jun 2013 16:22:58 GMT\r\nServer: IBM_HTTP_Server/6.1.0.43 Apache/2.0.47 (Win32)\r\nLocation: http://www.local.gov.uk/\r\nConnection: close\r\nContent-Type: text/html; charset=iso-8859-1\r\n\r\nHTTP/1.1 200 OK\r\nConnection: Keep-Alive\r\nContent-Length: 0\r\nDate: Sun, 09 Jun 2013 16:23:02 GMT\r\nContent-Type: text/html;charset=UTF-8\r\nETag: 1\r\nServer: Microsoft-IIS/7.5\r\nSet-Cookie: JSESSIONID=70820E1B15CB80BCD22D24106A7DE0D0; Path=/\r\nSet-Cookie: GUEST_LANGUAGE_ID=en_GB; Expires=Mon, 09-Jun-2014 16:22:58 GMT; Path=/\r\nIntelligus-Portal: Intelligus Portal Enterprise Edition 2.5.10 (Prometheus XI / Build 2510 / April 23, 2013)\r\nX-Powered-By: ASP.NET\r\n\r\n\nLink is valid.', http_code = 200, request_duration = 27.053503, timeout = 0, result_hash = '200|0|0|61a336b4bb6f4a148cae3ed0e31ec963', broken = 0, false_positive = 0, may_recheck = 1, being_checked = 0, status_text = '', status_code = '', dismissed = 0 WHERE link_id=48 made by do_action('wp_ajax_blc_work'), call_user_func_array, wsBrokenLinkChecker->ajax_work, wsBrokenLinkChecker->work, blcLink->check, blcLink->save
+[09-Jun-2013 16:22:57 UTC] WordPress database error MySQL server has gone away for query UPDATE wp_3_blc_links SET url = 'http://technologyforcommunities.com/', first_failure = '2013-06-09 15:51:02', last_check = '2013-06-09 15:51:02', last_success = '2013-06-06 15:50:10', last_check_attempt = '2013-06-09 16:22:57', check_count = 2, final_url = 'http://technologyforcommunities.com/', redirect_count = 0, log = '=== HTTP code : 500 ===\n\nHTTP/1.0 500 Internal Server Error\r\nDate: Sun, 09 Jun 2013 15:51:09 GMT\r\nServer: Apache/2.2.3 (CentOS)\r\nX-Powered-By: PHP/5.3.17\r\nSet-Cookie: wfvt_1965081485=51b4a46d84419; expires=Sun, 09-Jun-2013 16:21:09 GMT; path=/\r\nX-Pingback: http://technologyforcommunities.com/xmlrpc.php\r\nContent-Length: 0\r\nConnection: close\r\nContent-Type: text/html; charset=UTF-8\r\n\r\n\nLink is broken.', http_code = 500, request_duration = 0.684953, timeout = 0, result_hash = '500|broken|0|d628fcd99ca29ac4ca9b1fbae8f50f1c', broken = 1, false_positive = 0, may_recheck = 1, being_checked = 1, status_text = '', status_code = '', dismissed = 0 WHERE link_id=51 made by do_action('wp_ajax_blc_work'), call_user_func_array, wsBrokenLinkChecker->ajax_work, wsBrokenLinkChecker->work, blcLink->check, blcLink->save
+[09-Jun-2013 16:22:59 UTC] WordPress database error MySQL server has gone away for query UPDATE wp_3_blc_links SET url = 'http://technologyforcommunities.com/', first_failure = '2013-06-09 15:51:02', last_check = '2013-06-09 16:22:57', last_success = '2013-06-06 15:50:10', last_check_attempt = '2013-06-09 16:22:57', check_count = 2, final_url = 'http://technologyforcommunities.com/', redirect_count = 0, log = '=== HTTP code : 500 ===\n\nHTTP/1.0 500 Internal Server Error\r\nDate: Sun, 09 Jun 2013 16:23:04 GMT\r\nServer: Apache/2.2.3 (CentOS)\r\nX-Powered-By: PHP/5.3.17\r\nSet-Cookie: wfvt_1965081485=51b4abe8e2863; expires=Sun, 09-Jun-2013 16:53:04 GMT; path=/\r\nX-Pingback: http://technologyforcommunities.com/xmlrpc.php\r\nContent-Length: 0\r\nConnection: close\r\nContent-Type: text/html; charset=UTF-8\r\n\r\n\nLink is broken.', http_code = 500, request_duration = 0.688405, timeout = 0, result_hash = '500|broken|0|d628fcd99ca29ac4ca9b1fbae8f50f1c', broken = 1, false_positive = 0, may_recheck = 1, being_checked = 0, status_text = '', status_code = '', dismissed = 0 WHERE link_id=51 made by do_action('wp_ajax_blc_work'), call_user_func_array, wsBrokenLinkChecker->ajax_work, wsBrokenLinkChecker->work, blcLink->check, blcLink->save
+[09-Jun-2013 16:22:59 UTC] WordPress database error MySQL server has gone away for query SELECT links.*
+FROM wp_3_blc_links AS links
+		      WHERE 
+		      	(
+				  	( last_check_attempt < '2013-06-06 16:22:59' ) 
+					OR 
+			 	  	( 
+						(broken = 1 OR being_checked = 1) 
+						AND may_recheck = 1
+						AND check_count < 3 
+						AND last_check_attempt < '2013-06-09 15:52:59' 
+					)
+				)
+				AND EXISTS (
+					SELECT 1 FROM wp_3_blc_instances AS instances
+					WHERE 
+						instances.link_id = links.link_id
+						AND ( instances.container_type IN ('dummy', 'page', 'post', 'comment') )
+						AND ( instances.parser_type IN ('link', 'image', 'url_field', 'metadata') )
+				)
+			
+ORDER BY last_check_attempt ASC
+LIMIT 30 made by do_action('wp_ajax_blc_work'), call_user_func_array, wsBrokenLinkChecker->ajax_work, wsBrokenLinkChecker->work, wsBrokenLinkChecker->get_links_to_check
+[09-Jun-2013 16:22:59 UTC] WordPress database error MySQL server has gone away for query SELECT RELEASE_LOCK('blc_lock-blog-3') made by do_action('wp_ajax_blc_work'), call_user_func_array, wsBrokenLinkChecker->ajax_work, wsBrokenLinkChecker->work, wsBrokenLinkChecker->release_lock, WPMutex::release
+[11-Jun-2013 01:07:59 UTC] PHP Fatal error:  Class 'CRED_Form_Builder_Helper' not found in /home/proje196/public_html/wp-content/plugins/cred-frontend-editor/classes/Form_Builder.php on line 169
+[11-Jun-2013 01:08:11 UTC] PHP Fatal error:  Class 'CRED_Form_Builder_Helper' not found in /home/proje196/public_html/wp-content/plugins/cred-frontend-editor/classes/Form_Builder.php on line 169
+[11-Jun-2013 01:08:16 UTC] PHP Fatal error:  Class 'CRED_Form_Builder_Helper' not found in /home/proje196/public_html/wp-content/plugins/cred-frontend-editor/classes/Form_Builder.php on line 169
+[11-Jun-2013 15:21:17 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/proje196/public_html/wp-content/plugins/wp-helpers/wp-helpers.php on line 623
+[11-Jun-2013 15:21:17 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proje196/public_html/wp-content/plugins/admin-menu-editor/includes/menu-editor-core.php on line 489
+[11-Jun-2013 15:21:19 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/proje196/public_html/wp-content/plugins/wp-helpers/wp-helpers.php on line 623
+[11-Jun-2013 15:21:19 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proje196/public_html/wp-content/plugins/admin-menu-editor/includes/menu-editor-core.php on line 489
+[11-Jun-2013 15:21:36 UTC] PHP Warning:  array_unshift() expects parameter 1 to be array, null given in /home/proje196/public_html/wp-content/plugins/wp-helpers/wp-helpers.php on line 623
+[11-Jun-2013 15:21:36 UTC] PHP Warning:  Invalid argument supplied for foreach() in /home/proje196/public_html/wp-admin/includes/plugin.php on line 1413
+[17-Jun-2013 20:13:14 UTC] WordPress database error  for query CREATE TABLE wp_3_pluginSL_shorturl (id_post mediumint(9) NOT NULL, nb_hits mediumint(9), short_url TEXT DEFAULT '', url_externe VARCHAR( 255 ) NOT NULL DEFAULT '',UNIQUE KEY id_post (id_post, url_externe)) DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci  made by activate_plugin, do_action('activate_shorten-url/shorten-url.php'), call_user_func_array, pluginSedLex->install, pluginSedLex->singleSite_install
+[02-Jul-2013 14:16:37 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 for query SELECT event_status FROM wp_3_em_events WHERE event_id= made by do_action('admin_action_duplicate_post_save_as_new_post'), call_user_func_array, duplicate_post_save_as_new_post, duplicate_post_create_duplicate, wp_insert_post, do_action('save_post'), call_user_func_array, EM_Event_Post_Admin::save_post, EM_Event->set_status, EM_Event->get_previous_status
+[02-Jul-2013 14:16:37 UTC] WordPress database error You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1 for query UPDATE wp_3_em_events SET event_status=NULL, event_slug='' WHERE event_id= made by do_action('admin_action_duplicate_post_save_as_new_post'), call_user_func_array, duplicate_post_save_as_new_post, duplicate_post_create_duplicate, wp_insert_post, do_action('save_post'), call_user_func_array, EM_Event_Post_Admin::save_post, EM_Event->set_status
+[10-Jul-2013 23:48:59 UTC] WordPress database error Table 'wp_users' already exists for query CREATE TABLE wp_users (
+  ID bigint(20) unsigned NOT NULL auto_increment,
+  user_login varchar(60) NOT NULL default '',
+  user_pass varchar(64) NOT NULL default '',
+  user_nicename varchar(50) NOT NULL default '',
+  user_email varchar(100) NOT NULL default '',
+  user_url varchar(100) NOT NULL default '',
+  user_registered datetime NOT NULL default '0000-00-00 00:00:00',
+  user_activation_key varchar(60) NOT NULL default '',
+  user_status int(11) NOT NULL default '0',
+  display_name varchar(250) NOT NULL default '',
+  spam tinyint(2) NOT NULL default '0',
+  deleted tinyint(2) NOT NULL default '0',
+  PRIMARY KEY  (ID),
+  KEY user_login_key (user_login),
+  KEY user_nicename (user_nicename)
+) DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci made by wp_upgrade, make_db_current_silent, dbDelta
+[10-Jul-2013 23:48:59 UTC] WordPress database error Table 'wp_usermeta' already exists for query 
+CREATE TABLE wp_usermeta (
+  umeta_id bigint(20) unsigned NOT NULL auto_increment,
+  user_id bigint(20) unsigned NOT NULL default '0',
+  meta_key varchar(255) default NULL,
+  meta_value longtext,
+  PRIMARY KEY  (umeta_id),
+  KEY user_id (user_id),
+  KEY meta_key (meta_key)
+) DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci made by wp_upgrade, make_db_current_silent, dbDelta
+[10-Jul-2013 23:48:59 UTC] WordPress database error Table 'wp_blogs' already exists for query 
+CREATE TABLE wp_blogs (
+  blog_id bigint(20) NOT NULL auto_increment,
+  site_id bigint(20) NOT NULL default '0',
+  domain varchar(200) NOT NULL default '',
+  path varchar(100) NOT NULL default '',
+  registered datetime NOT NULL default '0000-00-00 00:00:00',
+  last_updated datetime NOT NULL default '0000-00-00 00:00:00',
+  public tinyint(2) NOT NULL default '1',
+  archived enum('0','1') NOT NULL default '0',
+  mature tinyint(2) NOT NULL default '0',
+  spam tinyint(2) NOT NULL default '0',
+  deleted tinyint(2) NOT NULL default '0',
+  lang_id int(11) NOT NULL default '0',
+  PRIMARY KEY  (blog_id),
+  KEY domain (domain(50),path(5)),
+  KEY lang_id (lang_id)
+) DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci made by wp_upgrade, make_db_current_silent, dbDelta
+[10-Jul-2013 23:48:59 UTC] WordPress database error Table 'wp_blog_versions' already exists for query 
+CREATE TABLE wp_blog_versions (
+  blog_id bigint(20) NOT NULL default '0',
+  db_version varchar(20) NOT NULL default '',
+  last_updated datetime NOT NULL default '0000-00-00 00:00:00',
+  PRIMARY KEY  (blog_id),
+  KEY db_version (db_version)
+) DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci made by wp_upgrade, make_db_current_silent, dbDelta
+[10-Jul-2013 23:48:59 UTC] WordPress database error Table 'wp_registration_log' already exists for query 
+CREATE TABLE wp_registration_log (
+  ID bigint(20) NOT NULL auto_increment,
+  email varchar(255) NOT NULL default '',
+  IP varchar(30) NOT NULL default '',
+  blog_id bigint(20) NOT NULL default '0',
+  date_registered datetime NOT NULL default '0000-00-00 00:00:00',
+  PRIMARY KEY  (ID),
+  KEY IP (IP)
+) DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci made by wp_upgrade, make_db_current_silent, dbDelta
+[10-Jul-2013 23:48:59 UTC] WordPress database error Table 'wp_site' already exists for query 
+CREATE TABLE wp_site (
+  id bigint(20) NOT NULL auto_increment,
+  domain varchar(200) NOT NULL default '',
+  path varchar(100) NOT NULL default '',
+  PRIMARY KEY  (id),
+  KEY domain (domain,path)
+) DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci made by wp_upgrade, make_db_current_silent, dbDelta
+[10-Jul-2013 23:48:59 UTC] WordPress database error Table 'wp_sitemeta' already exists for query 
+CREATE TABLE wp_sitemeta (
+  meta_id bigint(20) NOT NULL auto_increment,
+  site_id bigint(20) NOT NULL default '0',
+  meta_key varchar(255) default NULL,
+  meta_value longtext,
+  PRIMARY KEY  (meta_id),
+  KEY meta_key (meta_key),
+  KEY site_id (site_id)
+) DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci made by wp_upgrade, make_db_current_silent, dbDelta
+[10-Jul-2013 23:48:59 UTC] WordPress database error Table 'wp_signups' already exists for query 
+CREATE TABLE wp_signups (
+  domain varchar(200) NOT NULL default '',
+  path varchar(100) NOT NULL default '',
+  title longtext NOT NULL,
+  user_login varchar(60) NOT NULL default '',
+  user_email varchar(100) NOT NULL default '',
+  registered datetime NOT NULL default '0000-00-00 00:00:00',
+  activated datetime NOT NULL default '0000-00-00 00:00:00',
+  active tinyint(1) NOT NULL default '0',
+  activation_key varchar(50) NOT NULL default '',
+  meta longtext,
+  KEY activation_key (activation_key),
+  KEY domain (domain)
+) DEFAULT CHARACTER SET utf8 COLLATE utf8_general_ci made by wp_upgrade, make_db_current_silent, dbDelta
+[18-Jul-2013 14:56:13 UTC] WordPress database error Duplicate key name 'crp_related' for query ALTER TABLE wp_3_posts ADD FULLTEXT crp_related (post_title, post_content); made by activate_plugin, do_action('activate_contextual-related-posts/contextual-related-posts.php'), call_user_func_array, ald_crp_activate
+[18-Jul-2013 14:56:13 UTC] WordPress database error Duplicate key name 'crp_related_title' for query ALTER TABLE wp_3_posts ADD FULLTEXT crp_related_title (post_title); made by activate_plugin, do_action('activate_contextual-related-posts/contextual-related-posts.php'), call_user_func_array, ald_crp_activate
+[18-Jul-2013 14:56:13 UTC] WordPress database error Duplicate key name 'crp_related_content' for query ALTER TABLE wp_3_posts ADD FULLTEXT crp_related_content (post_content); made by activate_plugin, do_action('activate_contextual-related-posts/contextual-related-posts.php'), call_user_func_array, ald_crp_activate
+[25-Jul-2013 18:08:46 UTC] WordPress database error Table 'proje196_wppl.wp_3_rg_form' doesn't exist for query SELECT f.id, f.title, f.date_created, f.is_active, 0 as lead_count, 0 view_count
+                FROM wp_3_rg_form f
+                WHERE is_active=1
+                ORDER BY title made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include_once('/plugins/js_composer/js_composer.php'), require_once('/plugins/js_composer/config/map.php'), GFFormsModel::get_forms
+[25-Jul-2013 18:08:46 UTC] WordPress database error Table 'proje196_wppl.wp_3_rg_lead' doesn't exist for query SELECT form_id, count(id) as lead_count FROM wp_3_rg_lead l WHERE status='active' GROUP BY form_id made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include_once('/plugins/js_composer/js_composer.php'), require_once('/plugins/js_composer/config/map.php'), GFFormsModel::get_forms
+[25-Jul-2013 18:08:46 UTC] WordPress database error Table 'proje196_wppl.wp_3_rg_form_view' doesn't exist for query SELECT form_id, sum(count) as view_count FROM wp_3_rg_form_view GROUP BY form_id made by require_once('wp-admin/admin.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include_once('/plugins/js_composer/js_composer.php'), require_once('/plugins/js_composer/config/map.php'), GFFormsModel::get_forms
